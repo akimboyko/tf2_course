@@ -9,7 +9,7 @@ pydot==1.4.1
 graphviz==0.10.1
 
 # By default this project depends on the CPU version of TensorFlow:
-tf-nightly-2.0-preview
+tf-nightly-2.0-preview==2.0.0.dev20190126
 
 # but you can install the GPU version instead if you know what you are doing:
 #tf-nightly-gpu-2.0-preview

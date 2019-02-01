@@ -9,4 +9,4 @@ logs/*
 tf_logs/*
 my_*
 datasets/housing/**
-
+*.h5
